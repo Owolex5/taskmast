@@ -1,10 +1,4 @@
-# Task Master App
 
-![Design preview for the Kanban task management web app coding challenge](./preview.jpg)
-
-## Welcome! 👋
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help me improve my coding skills by building realistic projects.
 
 ## The challenge
 
